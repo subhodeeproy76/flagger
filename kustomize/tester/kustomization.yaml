@@ -1,4 +1,4 @@
-namespace: test
+namespace: qs-app-demo4-dev
 resources:
   - service.yaml
   - deployment.yaml
